@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
 
-ruby '2.4.5'
+ruby '2.4.10'
 
-gem 'rails', '4.2.11'
+gem 'rails', '4.2.11.3'
 
 gem 'acts_as_paranoid', github: 'ActsAsParanoid/acts_as_paranoid'
 gem 'airbrake', '~> 3.1.15'
